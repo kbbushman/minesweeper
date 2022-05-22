@@ -1,0 +1,9 @@
+node_modules/
+dist/
+/coverage.data
+/coverage/
+.env
+.env.dev
+.env.prod
+.env.development
+.env.production
