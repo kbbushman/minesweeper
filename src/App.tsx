@@ -1,9 +1,13 @@
 import React from 'react';
 
+import { Top } from './components/Top';
+
 function App() {
   return (
     <div>
-      <h1>Minesweeper</h1>
+      <Top feature="Flag" firstAction="Ctrl" secondAction="Click">
+        Minesweeper
+      </Top>
     </div>
   );
 }

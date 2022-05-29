@@ -7,3 +7,4 @@ dist/
 .env.prod
 .env.development
 .env.production
+build-storybook.log
